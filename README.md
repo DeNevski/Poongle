@@ -21,4 +21,4 @@ Poongle é um jogo de ping-pong inspirado no clássico jogo Pong.
 ![Poongle3](https://github.com/DeNevski/Poongle/assets/142954846/79874b46-10e1-43d4-86b4-6ee24719477c)
 
 ## LICENÇA
-Veja a licença clicando [ aqui ]( https://github.com/DeNevski/Poongle/blob/main/LICENSE ) .
+:heavy_check_mark: Veja a licença clicando [ aqui ]( https://github.com/DeNevski/Poongle/blob/main/LICENSE ) .
